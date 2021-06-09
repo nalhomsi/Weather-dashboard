@@ -8,8 +8,6 @@ body {
     }
     .hero{
       text-align: center;
-      background-color: #EEDCCE;
-      color: #729179;
       border-radius: 0;
       border-bottom: 10px solid #384b03;
     }

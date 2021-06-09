@@ -8,3 +8,4 @@ Repository can be found at: https://github.com/nalhomsi/Weather-dashboard
 
 Published page can be found at: https://nalhomsi.github.io/Weather-dashboard/
 
+Future developments: Search the weather further out or on a specific calender date.
